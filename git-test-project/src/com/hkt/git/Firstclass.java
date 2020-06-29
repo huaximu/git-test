@@ -6,5 +6,6 @@ public class Firstclass {
     }
     public void test(){
         System.out.println("wertyu");
+        System.out.println("hhhh");
     }
 }
